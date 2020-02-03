@@ -22,7 +22,7 @@ Surse externe:
  https://www.toptal.com/unity-unity3d/unity-with-mvc-how-to-level-up-your-game-development 
  https://www.youtube.com/watch?v=OD88_KGYXbg 
 
-###Capturi de ecran:
+### Capturi de ecran:
 
 ![Screenshot_20200203-082534_Joc](https://user-images.githubusercontent.com/56155473/73647265-cd76da80-4683-11ea-913a-f0d11e085677.jpg)
 ![Screenshot_20200203-082926_Joc](https://user-images.githubusercontent.com/56155473/73647267-cd76da80-4683-11ea-96fd-39f04b692823.jpg)
