@@ -21,3 +21,5 @@ Surse externe:
  https://forum.unity.com/threads/problem-with-a-jump-script.501276/ 
  https://www.toptal.com/unity-unity3d/unity-with-mvc-how-to-level-up-your-game-development 
  https://www.youtube.com/watch?v=OD88_KGYXbg 
+
+
